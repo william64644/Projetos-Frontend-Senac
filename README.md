@@ -9,7 +9,7 @@ O objetivo desse repositório é praticar e aprimorar habilidades em desenvolvim
 * Implementação de interatividade com JavaScript
 
 # Integrantes do grupo
-* Nome do integrante - [Portifólio](https://link-url-here.org)
-* Nome do integrante - [Portifólio](https://link-url-here.org)
-* Nome do integrante - [Portifólio](https://link-url-here.org)
-* Nome do integrante - [Portifólio](https://link-url-here.org)
+* Marcos H.P. - [Portifólio](https://link-url-here.org)
+* Vinicio R.R. - [Portifólio](https://link-url-here.org)
+* Wagner A.C. - [Portifólio](https://link-url-here.org)
+* William T.A. - [Portifólio](https://link-url-here.org)
