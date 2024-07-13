@@ -11,5 +11,5 @@ O objetivo desse repositório é praticar e aprimorar habilidades em desenvolvim
 # Integrantes do grupo
 * Marcos H.P. - [Portifólio](https://link-url-here.org)
 * Vinicio R.R. - [Portifólio](https://link-url-here.org)
-* Wagner A.C. - [Portifólio](https://link-url-here.org)
-* William T.A. - [Portifólio](https://link-url-here.org)
+* Wagner A.C. - [Portifólio](https://wag01.github.io/Portfolio/)
+* William T.A. - [Portifólio](https://william64644.github.io/estudos-front-end-senac/portifolio/index.html)
